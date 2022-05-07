@@ -1,0 +1,2 @@
+This file is used to demonstrate to  see github functionalities an will be using in every section.
+Github is new tool to store code and files a
